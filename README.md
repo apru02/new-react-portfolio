@@ -1,15 +1,13 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://sv-dev.netlify.app/" target="_blank">Sv.dev</a>
+<!--   <a href="https://sv-dev.netlify.app/" target="_blank">Sv.dev</a> -->
 </h2>
 
-<div align="center">
-  <img alt="Demo" src="https://res.cloudinary.com/dx6tl6aa2/image/upload/v1727730717/portfolio/promo/promo-2024_jfnfwo.png" />
-</div>
+
 
 ## Description
 
-My personal open-source portfolio website <a href="https://sv-dev.netlify.app/" target="_blank">sv-dev.netlify.app</a> <br/>
+My personal open-source portfolio website <a href="https://apratim.tech" target="_blank">apratim.tech</a> <br/>
 
 This project built using these technologies:
 
@@ -17,7 +15,6 @@ This project built using these technologies:
 - Vite
 - SASS
 - Cloudinary
-- Netlify
 
 ## Installation
 
@@ -54,10 +51,9 @@ To run this project locally, follow these steps:
 
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out!
 
-- **Email**: v.snaichuk@gmail.com
-- **GitHub**: [vsnaichuk](https://github.com/vsnaichuk)
-- **LinkedIn**: [vsnaichuk](https://www.linkedin.com/in/vsnaichuk/)
-- **Twitter**: [v_snaichuk](https://twitter.com/v_snaichuk)
+- **Email**: duttaapratim11@gmail.com
+- **GitHub**: [apru02](https://github.com/apru02)
+- **LinkedIn**: [apratim-dutta](https://www.linkedin.com/in/apratim-dutta/)
 
 Looking forward to hearing from you!
 
