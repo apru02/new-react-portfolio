@@ -11,7 +11,7 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink =
-  'https://raw.githubusercontent.com/apru02/apru02/main/APRATIM_DUTTA_PLUSH_CV.pdf';
+  'https://raw.githubusercontent.com/apru02/apru02/main/APRATIM_DUTTA_CV_FULLSTACK.pdf';
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
